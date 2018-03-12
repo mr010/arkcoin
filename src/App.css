@@ -47,3 +47,11 @@ table, th, td {
   text-align: center;
   border-bottom: 1px solid #ddd;
 }
+
+@media screen and (max-width: 375px) {
+
+  td a {
+    font-size:11px;
+  }
+
+}
